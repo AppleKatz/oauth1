@@ -9,4 +9,6 @@ type Endpoint struct {
 	AuthorizeURL string
 	// Access Token URL (Token Request URI)
 	AccessTokenURL string
+	
+	PersonDetailsURL string
 }
